@@ -10,7 +10,7 @@ Designed specifically for low-level systems engineering (**C**, **Assembly**, **
 
 <img src="assets/assets_screenshot.PNG" />
 > [!TIP]
-> *Nimmy looks best with a good Nerd Font (like JetBrains Mono or Fira Code).*
+> Nimmy looks best with a good Nerd Font (like JetBrains Mono or Fira Code).
 
 ---
 
